@@ -1,14 +1,31 @@
+Hi, I'm Robert An
+Computer Vision & AI Engineer 
+
+🔭 Currently working on: AI/ Computer Vision/ Perception/ Machine Vision 
+
+🌱 Currently learning: MLOps and Advanced Computer Vision
+👯 Looking to collaborate on: Autonomous Driving and Computer Vision projects
+💬 Ask me about: Object Detection, Tracking, Deep Learning, OpenCV
+📫 How to reach me: awookyung@gmail.com
+
 🚗 Areas of Expertise
-Autonomous Driving • Computer Vision • Object Tracking • Deep Learning • Image Processing
-🛠️ Languages and Tools:
-[Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-[Show Image](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-Show Image
-Show Image
-Show Image
-Show Image
+
+Autonomous Driving
+Computer Vision
+Object Detection & Tracking
+Deep Learning
+Image Processing
+
+
+🛠️ Tech Stack
+Languages: Python, C++, C, C#, MATLAB
+ML/CV Frameworks: PyTorch, OpenCV, TensorFlow, scikit-learn
+Tools & Platforms: Linux, Docker, Git, MLOps, CI/CD
+
 🎯 Current Focus
-Working on Deep Learning based vision systems  
-Connect with me:
-[Show Image](https://linkedin.com/in/robert-an)
-mailto:awookyung@gmail.com
+Working on Deep Learning based vision systems for EV battery manufacturing at Ford-SK Joint Venture
+
+📞 Connect with me
+
+LinkedIn: linkedin.com/in/robert-an
+Email: awookyung@gmail.com
