@@ -1,8 +1,7 @@
-Hi, I'm Robert An
-Computer Vision & AI Engineer 
+Hi 👋, I'm Robert An
+Computer Vision & AI Engineer from Kentucky
 
-🔭 Currently working on: AI/ Computer Vision/ Perception/ Machine Vision 
-
+🔭 Currently working on: AI Machine Vision for EV Battery Manufacturing at Blueoval SK
 🌱 Currently learning: MLOps and Advanced Computer Vision
 👯 Looking to collaborate on: Autonomous Driving and Computer Vision projects
 💬 Ask me about: Object Detection, Tracking, Deep Learning, OpenCV
