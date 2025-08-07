@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**aqualiquid/aqualiquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚗 Areas of Expertise
+Autonomous Driving • Computer Vision • Object Tracking • Deep Learning • Image Processing
+🛠️ Languages and Tools:
+[Show Image](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+[Show Image](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+Show Image
+Show Image
+Show Image
+Show Image
+🎯 Current Focus
+Working on Deep Learning based vision systems  
+Connect with me:
+[Show Image](https://linkedin.com/in/robert-an)
+mailto:awookyung@gmail.com
