@@ -6,19 +6,11 @@
 
 🔭 **Currently working on:** AI Machine Vision for EV Battery Manufacturing at Blueoval SK
 
-<br>
-
 🌱 **Currently learning:** MLOps and Advanced Computer Vision
-
-<br>
 
 👯 **Looking to collaborate on:** Autonomous Driving and Computer Vision projects
 
-<br>
-
 💬 **Ask me about:** Object Detection, Tracking, Deep Learning, OpenCV
-
-<br>
 
 📫 **How to reach me:** awookyung@gmail.com
 
