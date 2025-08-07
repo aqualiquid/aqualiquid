@@ -1,6 +1,6 @@
 # Hi 👋, I'm Robert An
 
-## Computer Vision & AI Engineer from Kentucky
+## Computer Vision & AI Engineer 
 
 <br>
 
