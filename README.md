@@ -48,7 +48,3 @@ Working on Deep Learning based vision systems
 
 **Email:** awookyung@gmail.com
 
-<br>
-
----
-⭐ Thanks for visiting my profile!
